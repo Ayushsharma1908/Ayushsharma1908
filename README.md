@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Kumar
 
-<!--
-**Ayushsharma1908/Ayushsharma1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate developer who loves building **clean, scalable, and impactful web applications**.  
+I enjoy working at the intersection of **frontend, AI, and product design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 💻 Full-stack developer with a strong focus on **React**
+- 🤖 Interested in **AI-powered applications & intelligent systems**
+- 🎨 UI/UX focused — I care deeply about clean design and good user experience
+- 🏗️ Currently building real-world projects and experimenting with new ideas
+- 🌱 Always learning, always improving
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+- React
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS
+
+### ⚙️ Backend & Tools
+- Node.js
+- Express
+- REST APIs
+- Git & GitHub
+
+### ☁️ Cloud & AI
+- Google Cloud
+- AI / ML integrations
+- Agentic workflows (learning & experimenting)
+
+---
+⭐ If you like my work, consider giving a star — it keeps me motivated!
