@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ayush Kumar
 
 🚀 A passionate developer who loves building **clean, scalable, and impactful web applications**.  
-I enjoy working at the intersection of **frontend, AI, and product design**.
+I enjoy working at the intersection of **frontend backend and database**.
 
 ---
 
