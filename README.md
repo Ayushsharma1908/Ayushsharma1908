@@ -20,13 +20,11 @@ I enjoy working at the intersection of **frontend backend and database**.
 ### 🚀 Frontend
 - React
 - JavaScript (ES6+)
-- HTML5, CSS3
 - Tailwind CSS
 
 ### ⚙️ Backend & Tools
 - Node.js
 - Express
-- REST APIs
 - Git & GitHub
 
 ---
