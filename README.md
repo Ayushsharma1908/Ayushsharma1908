@@ -29,10 +29,5 @@ I enjoy working at the intersection of **frontend, AI, and product design**.
 - REST APIs
 - Git & GitHub
 
-### ☁️ Cloud & AI
-- Google Cloud
-- AI / ML integrations
-- Agentic workflows (learning & experimenting)
-
 ---
 ⭐ If you like my work, consider giving a star — it keeps me motivated!
