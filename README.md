@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- UNIQUE BANNER: venom type, deep navy/indigo palette — NOT the generic waving gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0a0a2e,70:1a1a4e,100:0d0d1a&height=220&section=header&text=Ayush%20Kumar%20Sharma&fontSize=52&fontColor=e2e8ff&fontAlignY=40&desc=⚡%20Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20React%20Craftsman&descAlignY=62&descSize=17&animation=twinkling&stroke=4f46e5&strokeWidth=1" width="100%"/>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0a0a2e,70:1a1a4e,100:0d0d1a&height=220&section=header&text=Ayush%20Kumar%20Sharma&fontSize=52&fontColor=e2e8ff&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20React%20Craftsman&descAlignY=62&descSize=17&animation=twinkling&stroke=4f46e5&strokeWidth=1" width="100%"/>
 
-<!-- Typing Animation — indigo/violet tone, Fira Code font -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Building+AI-driven+web+apps+🧠;MERN+Stack+%2B+clean+architecture+🏗️;Turning+ideas+into+scalable+products+🚀;UI%2FUX+obsessed+—+design+matters+🎨;Always+learning%2C+always+shipping+📦" alt="Typing SVG"/>
+<!-- Typing Animation — NO emojis in URL, they break rendering -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=680&lines=Building+AI-driven+web+apps;MERN+Stack+%2B+clean+architecture;Turning+ideas+into+scalable+products;UI%2FUX+obsessed+%E2%80%94+design+matters;Always+learning%2C+always+shipping" alt="Typing SVG"/>
 
 <br/>
 
@@ -28,12 +28,12 @@
 ```javascript
 const ayush = {
   name     : "Ayush Kumar Sharma",
-  location : "Jharkhand, India 🇮🇳",
+  location : "Jharkhand, India",
   role     : "Full-Stack Developer",
   stack    : ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
   building : "AI-driven web apps with React & cloud tech",
   goals    : ["Scalable products", "Clean UI/UX", "Open Source impact"],
-  streak   : "Learning something new every single day 🔥",
+  streak   : "Learning something new every single day",
   contact  : "linkedin.com/in/ayushkrsharma19"
 };
 ```
@@ -88,23 +88,28 @@ const ayush = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c9d1d9" height="175"/>
+
+<!-- Using anuraghazra stats with cache_seconds to reduce rate limit errors -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&cache_seconds=1800&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c9d1d9&cache_seconds=1800" />
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushsharma1908&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=818cf8" width="65%"/>
+
+<!-- Streak stats — reliable service -->
+<img src="https://streak-stats.demolab.com/?user=Ayushsharma1908&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=818cf8" width="65%"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/Ayushsharma1908)
+<!-- Using stable gitprofile trophy endpoint with only 4 columns to avoid rendering issues -->
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
 
 </div>
 
@@ -114,7 +119,7 @@ const ayush = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d0d1a&color=818cf8&line=4f46e5&point=e2e8ff&area=true&area_color=4f46e5&hide_border=true&radius=8)](https://github.com/Ayushsharma1908)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d0d1a&color=818cf8&line=4f46e5&point=e2e8ff&area=true&area_color=4f46e5&hide_border=true&radius=8" width="100%"/>
 
 </div>
 
@@ -173,10 +178,10 @@ const ayush = {
 
 <div align="center">
 
-<!-- UNIQUE FOOTER: matching venom style with a custom message -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1a4e,100:050505&height=150&section=footer&text=Let%27s%20build%20something%20great%20together&fontSize=22&fontColor=818cf8&fontAlignY=55&animation=twinkling&stroke=4f46e5&strokeWidth=1" width="100%"/>
 
-**⭐ If my work adds value to you — a star means the world 🙏**
+**If my work adds value to you — a star means the world**
+
 *"First, solve the problem. Then, write the code."*
 
 </div>
