@@ -91,14 +91,14 @@ const ayush = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=c9d1d9)](https://github.com/ayushkumar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=c9d1d9)](https://github.com/Ayushsharma1908)
 
 </div>
 
@@ -108,7 +108,7 @@ const ayush = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushkumar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ayushkumar)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/Ayushsharma1908)
 
 </div>
 
@@ -118,7 +118,7 @@ const ayush = {
 
 <div align="center">
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushkumar&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ayushkumar)
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/Ayushsharma1908)
 
 </div>
 
