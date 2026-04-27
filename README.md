@@ -1,87 +1,85 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20UI%2FUX%20Craftsman&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- UNIQUE BANNER: venom type, deep navy/indigo palette — NOT the generic waving gradient -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0a0a2e,70:1a1a4e,100:0d0d1a&height=220&section=header&text=Ayush%20Kumar%20Sharma&fontSize=52&fontColor=e2e8ff&fontAlignY=40&desc=⚡%20Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20React%20Craftsman&descAlignY=62&descSize=17&animation=twinkling&stroke=4f46e5&strokeWidth=1" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Clean+%26+Scalable+Web+Apps+%F0%9F%9A%80;Full-Stack+React+%2B+Node.js+Developer+%F0%9F%92%BB;AI-Powered+Applications+%F0%9F%A4%96;UI%2FUX+Focused+%E2%80%94+Design+Meets+Function+%F0%9F%8E%A8" alt="Typing SVG" />
-</a>
+<!-- Typing Animation — indigo/violet tone, Fira Code font -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Building+AI-driven+web+apps+🧠;MERN+Stack+%2B+clean+architecture+🏗️;Turning+ideas+into+scalable+products+🚀;UI%2FUX+obsessed+—+design+matters+🎨;Always+learning%2C+always+shipping+📦" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ayushkrsharma19)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushsharma1908)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ayushkrsharma19)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushsharma1908)
+[![RepoLens](https://img.shields.io/badge/RepoLens-Live%20Demo-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://repolens-client.vercel.app)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile+Views&color=a78bfa&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile%20Views&color=818cf8&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Ayushsharma1908?label=Followers&style=flat-square&color=818cf8)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-```typescript
+```javascript
 const ayush = {
-  name: "Ayush Kumar",
-  role: "Full-Stack Developer",
-  location: "India 🇮🇳",
-  focus: ["React", "Node.js", "AI-Powered Apps"],
-  passions: ["Clean UI/UX", "Scalable Architecture", "Open Source"],
-  currentlyBuilding: "Real-world full-stack projects",
-  alwaysLearning: true,
-  funFact: "I obsess over pixel-perfect design and clean code 🎨"
+  name     : "Ayush Kumar Sharma",
+  location : "Jharkhand, India 🇮🇳",
+  role     : "Full-Stack Developer",
+  stack    : ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+  building : "AI-driven web apps with React & cloud tech",
+  goals    : ["Scalable products", "Clean UI/UX", "Open Source impact"],
+  streak   : "Learning something new every single day 🔥",
+  contact  : "linkedin.com/in/ayushkrsharma19"
 };
 ```
 
 <div align="center">
 
-| 💻 Full-Stack Dev | 🤖 AI Enthusiast | 🎨 UI/UX Focused | 🏗️ Always Building |
-|:-:|:-:|:-:|:-:|
-| React + Node.js | Intelligent Systems | Clean Design | Real-World Projects |
+| 🧠 AI-Powered Apps | ⚛️ React Specialist | 🎨 UI/UX First | 🏗️ MERN Stack |
+|:---:|:---:|:---:|:---:|
+| Building intelligent systems | Component architecture | Pixel-perfect interfaces | End-to-end dev |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🚀 Frontend
-<div align="left">
+<div align="center">
 
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-</div>
-
-### ⚙️ Backend & Database
-<div align="left">
-
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![OpenRouter AI](https://img.shields.io/badge/OpenRouter_AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 
-</div>
-
-### 🧰 Tools & DevOps
-<div align="left">
-
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -90,46 +88,46 @@ const ayush = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c9d1d9" height="175"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushsharma1908&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=818cf8" width="65%"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=c9d1d9)](https://github.com/Ayushsharma1908)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/Ayushsharma1908)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/Ayushsharma1908)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d0d1a&color=818cf8&line=4f46e5&point=e2e8ff&area=true&area_color=4f46e5&hide_border=true&radius=8)](https://github.com/Ayushsharma1908)
 
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/Ayushsharma1908)
-
-</div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushkumar/ayushkumar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushkumar/ayushkumar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushkumar/ayushkumar/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -140,18 +138,34 @@ const ayush = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/Ayushsharma1908/Repolens)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/Ayushsharma1908/hear-me-out)
+<a href="https://github.com/Ayushsharma1908/Repolens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Ayushsharma1908/hear-me-out">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🔍 [RepoLens](https://repolens-client.vercel.app) | 💬 [Hear Me Out](https://github.com/Ayushsharma1908/hear-me-out) |
+|:---|:---|
+| Paste any public GitHub URL → instant AI insights, code quality metrics, contributor trends, file structure & auth history | Full-stack AI chatbot with real-time conversations powered by an intelligent AI assistant |
+| `React` `Node.js` `MongoDB` `OpenRouter AI` `OAuth2` `JWT` `Vercel` `Render` | `React` `Node.js` `Express` `AI` `JavaScript` |
+| ⭐ 4 stars | ⭐ 4 stars |
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -159,11 +173,10 @@ const ayush = {
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<!-- UNIQUE FOOTER: matching venom style with a custom message -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1a4e,100:050505&height=150&section=footer&text=Let%27s%20build%20something%20great%20together&fontSize=22&fontColor=818cf8&fontAlignY=55&animation=twinkling&stroke=4f46e5&strokeWidth=1" width="100%"/>
 
-**⭐ If you find my work valuable, a star keeps me going — thank you! 🙏**
-
-*"First, solve the problem. Then, write the code." — John Johnson*
+**⭐ If my work adds value to you — a star means the world 🙏**
+*"First, solve the problem. Then, write the code."*
 
 </div>
