@@ -142,8 +142,8 @@ const ayush = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/ayushkumar/project-one)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/ayushkumar/project-two)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/Ayushsharma1908/Repolens)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/Ayushsharma1908/hear-me-out)
 
 </div>
 
