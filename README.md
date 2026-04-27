@@ -16,7 +16,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushkumar&label=Profile+Views&color=a78bfa&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile+Views&color=a78bfa&style=flat-square)
 
 </div>
 
@@ -81,7 +81,7 @@ const ayush = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 </div>
 
