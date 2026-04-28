@@ -89,15 +89,13 @@ const ayush = {
 
 <div align="center">
 
-<!-- ✅ SELF-HOSTED — Replace YOUR_VERCEL_URL with your own Vercel deployment URL (see setup guide below) -->
-<img height="180em" src="https://YOUR_VERCEL_URL.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-vert-mu-53.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-vert-mu-53.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<!-- ✅ Streak stats — demolab is reliable and free -->
 <img src="https://streak-stats.demolab.com/?user=Ayushsharma1908&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=818cf8" width="60%"/>
 
 </div>
@@ -108,7 +106,6 @@ const ayush = {
 
 <div align="center">
 
-<!-- ✅ Trophies — fully working, no token needed -->
 <img src="https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=3&row=2"/>
 
 </div>
@@ -119,7 +116,6 @@ const ayush = {
 
 <div align="center">
 
-<!-- ✅ Activity graph — fully working -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d0d1a&color=818cf8&line=4f46e5&point=e2e8ff&area=true&area_color=4f46e5&hide_border=true&radius=8" width="100%"/>
 
 </div>
@@ -145,10 +141,10 @@ const ayush = {
 <div align="center">
 
 <a href="https://github.com/Ayushsharma1908/Repolens">
-  <img src="https://YOUR_VERCEL_URL.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-vert-mu-53.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Ayushsharma1908/hear-me-out">
-  <img src="https://YOUR_VERCEL_URL.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats-vert-mu-53.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
 </a>
 
 </div>
