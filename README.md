@@ -16,6 +16,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile%20Views&color=818cf8&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Ayushsharma1908?label=Followers&style=flat-square&color=818cf8)
+![GitHub stars](https://img.shields.io/github/stars/Ayushsharma1908?label=Total%20Stars&style=flat-square&color=818cf8)
 
 </div>
 
@@ -89,14 +90,20 @@ const ayush = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-vert-mu-53.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-vert-mu-53.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c9d1d9"/>
+<!-- Streak stats — demolab, always reliable, no token needed -->
+<img src="https://streak-stats.demolab.com/?user=Ayushsharma1908&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=818cf8" width="70%"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ayushsharma1908&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=818cf8" width="60%"/>
+<!-- Quick stats via shields — always work, no API token needed -->
+![Commits](https://img.shields.io/badge/Total%20Commits-272%2B-818cf8?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/github/public-repos/Ayushsharma1908?style=for-the-badge&label=Public%20Repos&color=818cf8)
+![Stars](https://img.shields.io/github/stars/Ayushsharma1908?style=for-the-badge&label=Total%20Stars&color=f59e0b)
+![Followers](https://img.shields.io/github/followers/Ayushsharma1908?style=for-the-badge&label=Followers&color=818cf8)
 
 </div>
 
@@ -140,24 +147,12 @@ const ayush = {
 
 <div align="center">
 
-<a href="https://github.com/Ayushsharma1908/Repolens">
-  <img src="https://github-readme-stats-vert-mu-53.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Ayushsharma1908/hear-me-out">
-  <img src="https://github-readme-stats-vert-mu-53.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🔍 [RepoLens](https://repolens-client.vercel.app) | 💬 [Hear Me Out](https://github.com/Ayushsharma1908/hear-me-out) |
+| 🔍 RepoLens | 💬 Hear Me Out |
 |:---|:---|
-| Paste any public GitHub URL → instant AI insights, code quality metrics, contributor trends, file structure & auth history | Full-stack AI chatbot with real-time conversations powered by an intelligent AI assistant |
+| **[View Repo](https://github.com/Ayushsharma1908/Repolens)** · **[Live Demo](https://repolens-client.vercel.app)** | **[View Repo](https://github.com/Ayushsharma1908/hear-me-out)** |
+| Paste any public GitHub URL → instant AI insights, code quality metrics, contributor trends & auth history | Full-stack AI chatbot with real-time conversations powered by an intelligent AI assistant |
 | `React` `Node.js` `MongoDB` `OpenRouter AI` `OAuth2` `JWT` | `React` `Node.js` `Express` `AI` `JavaScript` |
-| ⭐ 4 stars | ⭐ 4 stars |
+| ![Stars](https://img.shields.io/github/stars/Ayushsharma1908/Repolens?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Ayushsharma1908/Repolens?style=flat-square&color=818cf8) | ![Stars](https://img.shields.io/github/stars/Ayushsharma1908/hear-me-out?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Ayushsharma1908/hear-me-out?style=flat-square&color=818cf8) |
 
 </div>
 
