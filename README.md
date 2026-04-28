@@ -87,12 +87,6 @@ const ayush = {
 
 <div align="center">
 
-<!--
-  ✅ USING SELF-HOSTED FORK — never rate limited
-  Replace YOUR_VERCEL_URL below with your own deployed URL after following setup
-  Until then, use the githubstats.me service which is a stable public alternative
--->
-
 <img height="180em" src="https://githubstats.me/api?username=Ayushsharma1908&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://githubstats.me/api/top-langs/?username=Ayushsharma1908&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c9d1d9"/>
