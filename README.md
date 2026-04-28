@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ayushkrsharma19)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushsharma1908)
-[![RepoLens](https://img.shields.io/badge/RepoLens-Live%20Demo-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://repolens-client.vercel.app)
 
 <br/>
 
