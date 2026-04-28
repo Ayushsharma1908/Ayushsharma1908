@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ayushkrsharma19)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushsharma1908)
-[![RepoLens](https://img.shields.io/badge/RepoLens-Live%20Demo-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://repolens-client.vercel.app)
 
 <br/>
 
@@ -101,7 +100,6 @@ const ayush = {
 
 <!-- Quick stats via shields — always work, no API token needed -->
 ![Commits](https://img.shields.io/badge/Total%20Commits-272%2B-818cf8?style=for-the-badge&logo=git&logoColor=white)
-![Repos](https://img.shields.io/github/public-repos/Ayushsharma1908?style=for-the-badge&label=Public%20Repos&color=818cf8)
 ![Stars](https://img.shields.io/github/stars/Ayushsharma1908?style=for-the-badge&label=Total%20Stars&color=f59e0b)
 ![Followers](https://img.shields.io/github/followers/Ayushsharma1908?style=for-the-badge&label=Followers&color=818cf8)
 
@@ -149,7 +147,7 @@ const ayush = {
 
 | 🔍 RepoLens | 💬 Hear Me Out |
 |:---|:---|
-| **[View Repo](https://github.com/Ayushsharma1908/Repolens)** · **[Live Demo](https://repolens-client.vercel.app)** | **[View Repo](https://github.com/Ayushsharma1908/hear-me-out)** |
+| **[View Repo](https://github.com/Ayushsharma1908/Repolens)** · **[Live Demo](https://repolens-client.vercel.app)** | **[View Repo](https://github.com/Ayushsharma1908/hear-me-out)** · **[Live Demo](https://hear-me-out-red.vercel.app/)**|
 | Paste any public GitHub URL → instant AI insights, code quality metrics, contributor trends & auth history | Full-stack AI chatbot with real-time conversations powered by an intelligent AI assistant |
 | `React` `Node.js` `MongoDB` `OpenRouter AI` `OAuth2` `JWT` | `React` `Node.js` `Express` `AI` `JavaScript` |
 | ![Stars](https://img.shields.io/github/stars/Ayushsharma1908/Repolens?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Ayushsharma1908/Repolens?style=flat-square&color=818cf8) | ![Stars](https://img.shields.io/github/stars/Ayushsharma1908/hear-me-out?style=flat-square&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Ayushsharma1908/hear-me-out?style=flat-square&color=818cf8) |
