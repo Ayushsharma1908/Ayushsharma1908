@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Ayush%20Kumar%20Sharma&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
 
-# 👋 Hi, I'm Ayush Kumar Sharma
 
-### `Full Stack Developer` • `Bulding Ai integrated apps` • `Open Source Contributor`
 
 <p>
   <a href="YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
