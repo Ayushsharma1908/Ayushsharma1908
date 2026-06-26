@@ -23,19 +23,7 @@
 
 ## 🟢 Hero Preview
 
-<div align="center">
-
-> GitHub README files do not reliably autoplay embedded videos, so the best approach is to use a clickable poster/GIF/thumbnail that links to your video file or repository media asset.
-
-<a href="./assets/Man_with_flowing_cape.mp4">
-  <img src="https://img.shields.io/badge/▶%20Watch%20Hero%20Video-0d1117?style=for-the-badge&logo=github&logoColor=39d353" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Building+clean+full-stack+experiences;Exploring+AI+and+modern+developer+tools;Creating+projects+that+solve+real+problems" alt="Typing SVG" />
-
-</div>
+<img src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/main/Assets/hero.gif" width="100%">
 
 ---
 
@@ -206,7 +194,7 @@ funfact: I debug with console.log and I'm proud of it
 <div align="center">
 
 ```diff
-+ First, solve the problem. Then, write the code.
++ Let's build something meaningful.
 ```
 
 **Thanks for visiting my profile!**
