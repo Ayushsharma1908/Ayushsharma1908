@@ -5,10 +5,10 @@
 
 
 <p>
-  <a href="YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
-  <a href="YOUR_PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" /></a>
-  <a href="YOUR_RESUME" target="_blank"><img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=39d353" /></a>
+  <a href="https://www.linkedin.com/in/ayushkrsharma19/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
+  <a href="https://ayush-portfolio-ten-mauve.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" /></a>
+  <a href="mailto:ayushsharma192004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" /></a>
+  
 </p>
 
 <p>
@@ -17,9 +17,7 @@
 
 </div>
 
----
 
-## 🟢 Hero Preview
 
 <img src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/main/Assets/hero.gif" width="100%">
 
@@ -175,13 +173,13 @@ funfact: I debug with console.log and I'm proud of it
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/ayushkrsharma19/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ayushsharma192004@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
 </a>
-<a href="YOUR_PORTFOLIO" target="_blank">
+<a href="https://ayush-portfolio-ten-mauve.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39d353" />
 </a>
 
