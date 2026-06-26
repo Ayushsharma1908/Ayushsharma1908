@@ -1,36 +1,33 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   AYUSH KUMAR SHARMA                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header" width="100%"/>
 
-```
- █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-███████║ ╚████╔╝ ██║   ██║███████╗███████║
-██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-### `Full-Stack Developer` · `AI Builder` · `React Craftsman`
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d2818,100:0d1117&height=280&section=header&text=Ayush%20Kumar%20Sharma&fontSize=60&fontColor=3fb950&fontAlignY=45&desc=%3C%20Full-Stack%20Developer%20%20%7C%20%20AI%20Builder%20%20%7C%20%20React%20Craftsman%20%2F%3E&descSize=18&descAlignY=65&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn%20─-0d1117?style=flat-square&logo=linkedin&logoColor=39d353&labelColor=0d1117&color=39d353)](http://www.linkedin.com/in/ayushkrsharma19)
-[![GitHub](https://img.shields.io/badge/─%20GitHub%20─-0d1117?style=flat-square&logo=github&logoColor=39d353&labelColor=0d1117&color=39d353)](https://github.com/Ayushsharma1908)
-[![Portfolio](https://img.shields.io/badge/─%20Portfolio%20─-0d1117?style=flat-square&logo=vercel&logoColor=39d353&labelColor=0d1117&color=39d353)]([YOUR_WEBSITE])
-[![Email](https://img.shields.io/badge/─%20Email%20─-0d1117?style=flat-square&logo=gmail&logoColor=39d353&labelColor=0d1117&color=39d353)](mailto:[YOUR_EMAIL])
+<!-- SOCIAL ROW -->
+<a href="http://www.linkedin.com/in/ayushkrsharma19">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3fb950&labelColor=161b22"/>
+</a>&nbsp;
+<a href="https://github.com/Ayushsharma1908">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950&labelColor=161b22"/>
+</a>&nbsp;
+<a href="[YOUR_WEBSITE]">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950&labelColor=161b22"/>
+</a>&nbsp;
+<a href="mailto:[YOUR_EMAIL]">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950&labelColor=161b22"/>
+</a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayushsharma1908&label=profile+views&color=39d353&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile+Views&color=3fb950&style=flat-square&labelColor=161b22)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Ayushsharma1908?label=followers&style=flat-square&color=39d353&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Ayushsharma1908?label=Followers&style=flat-square&color=3fb950&labelColor=161b22)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Ayushsharma1908?label=total+stars&style=flat-square&color=39d353&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/Ayushsharma1908?label=Stars&style=flat-square&color=3fb950&labelColor=161b22)
 
 </div>
 
@@ -38,170 +35,165 @@
 
 ---
 
-## ▶ &nbsp;Intro
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
+
+- 🔭 &nbsp;Building **AI-driven full-stack apps** with React & cloud infrastructure
+- 🌱 &nbsp;Currently learning **Docker · Kubernetes · FastAPI · Hugging Face**
+- 🤖 &nbsp;Integrating AI into real products using **OpenRouter, LangChain, HF**
+- 💬 &nbsp;Ask me about **React, Node.js, MongoDB, REST APIs, OAuth2**
+- 🤝 &nbsp;Open to **collaborations, open-source & freelance**
+- 📍 &nbsp;Based in **Jharkhand, India**
+- ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm proud of it
+
+<br clear="right"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🎬 &nbsp;Motion Intro
 
 <div align="center">
 
 https://github.com/Ayushsharma1908/Ayushsharma1908/raw/main/Assets/Man_with_flowing_cape.mp4
 
-> *GitHub renders this as a playable video on desktop — commit the file to `Assets/Man_with_flowing_cape.mp4`*
-
 </div>
 
-<br/>
-
 ---
 
-## `~/whoami`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-```js
-const ayush = {
-  name      : "Ayush Kumar Sharma",
-  location  : "Jharkhand, India",
-  role      : "Full-Stack Developer",
-  focus     : "AI-driven web apps · Clean architecture · Open source",
-  stack     : ["React", "Node.js", "Express", "MongoDB",
-               "Python", "FastAPI", "Docker", "Kubernetes"],
-  ai        : ["Hugging Face", "OpenRouter AI", "LangChain"],
-  learning  : ["Kubernetes", "FastAPI", "ML Pipelines"],
-  askMeAbout: ["React", "Node.js", "REST APIs", "Auth", "AI integrations"],
-  available : true   // open to collabs & freelance
-};
-```
-
-<br/>
-
----
-
-## `~/stack`
-
-<br/>
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react&theme=dark)&nbsp;
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)&nbsp;
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)&nbsp;
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)&nbsp;
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)&nbsp;
-![HTML](https://skillicons.dev/icons?i=html&theme=dark)&nbsp;
-![CSS](https://skillicons.dev/icons?i=css&theme=dark)&nbsp;
-![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
-
-**Backend**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)&nbsp;
-![Express](https://skillicons.dev/icons?i=express&theme=dark)&nbsp;
-![Python](https://skillicons.dev/icons?i=python&theme=dark)&nbsp;
-![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)
-
-**Databases**
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)&nbsp;
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)&nbsp;
-![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
-
-**Cloud & DevOps**
-
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)&nbsp;
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)&nbsp;
-![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)&nbsp;
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)
-
-**AI / ML**
-
-![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)&nbsp;
-&nbsp;![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)&nbsp;
-![OpenRouter](https://img.shields.io/badge/OpenRouter%20AI-39d353?style=flat-square&logo=openai&logoColor=0d1117)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=39d353)
-
-**Tools**
-
-![Git](https://skillicons.dev/icons?i=git&theme=dark)&nbsp;
-![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)&nbsp;
-![Figma](https://skillicons.dev/icons?i=figma&theme=dark)&nbsp;
-![Postman](https://skillicons.dev/icons?i=postman&theme=dark)&nbsp;
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-
-<br/>
-
----
-
-## `~/stats`
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ayushsharma1908&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=ffffff&sideNums=39d353&dates=8b949e&sideLabels=8b949e&currStreakNum=ffffff" width="65%"/>
+### ⚛️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=dark&perline=8"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&rank_icon=github" width="47%"/>
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark&perline=8"/>
+
+<br/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark&perline=6"/>
+
+<br/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions&theme=dark&perline=8"/>
+
+<br/>
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenRouter%20AI-3fb950?style=for-the-badge&logo=openai&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/LangChain-3fb950?style=for-the-badge&logo=langchain&logoColor=0d1117"/>
+
+<br/>
+
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark&perline=8"/>
+
+<br/>
+
+### 🔐 Auth
+<img src="https://img.shields.io/badge/JWT-161b22?style=for-the-badge&logo=jsonwebtokens&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/OAuth2-161b22?style=for-the-badge&logo=auth0&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/Passport.js-161b22?style=for-the-badge&logo=passport&logoColor=3fb950"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8" width="40%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<img src="https://streak-stats.demolab.com/?user=Ayushsharma1908&theme=github-dark&hide_border=true&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideNums=3fb950&dates=8b949e&sideLabels=8b949e&currStreakNum=ffffff" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushsharma1908&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4&row=2"/>
 
 </div>
 
-<br/>
-
 ---
 
-## `~/activity`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📈 &nbsp;Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=0d4a1a&hide_border=true&radius=4" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=0d2818&hide_border=true&radius=6" width="100%"/>
 </div>
-
-<br/>
 
 ---
 
-## `~/snake`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake-dark.svg" width="80%"/>
   </picture>
 </div>
 
-<br/>
-
 ---
 
-## `~/projects`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Ayushsharma1908/Repolens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d"/>
 </a>
 &nbsp;
 <a href="https://github.com/Ayushsharma1908/hear-me-out">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d"/>
 </a>
 
 </div>
 
 <br/>
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🔍 **RepoLens** | Paste any public GitHub URL → instant AI insights, code quality metrics & contributor trends | `React` `Node.js` `MongoDB` `OpenRouter AI` `OAuth2` | [Repo](https://github.com/Ayushsharma1908/Repolens) · [Demo](https://repolens-client.vercel.app) |
-| 💬 **Hear Me Out** | Full-stack AI chatbot with real-time conversations powered by an intelligent assistant | `React` `Node.js` `Express` `AI` | [Repo](https://github.com/Ayushsharma1908/hear-me-out) · [Demo](https://hear-me-out-red.vercel.app) |
+<div align="center">
 
-<br/>
+| 🔍 **RepoLens** | 💬 **Hear Me Out** |
+|:---|:---|
+| Paste any public GitHub URL → instant AI insights, code quality metrics, contributor trends & auth history | Full-stack AI chatbot with real-time conversations powered by an intelligent assistant |
+| `React` `Node.js` `MongoDB` `OpenRouter AI` `OAuth2` `JWT` | `React` `Node.js` `Express` `AI` `JavaScript` |
+| [View Repo](https://github.com/Ayushsharma1908/Repolens) · [Live Demo](https://repolens-client.vercel.app) | [View Repo](https://github.com/Ayushsharma1908/hear-me-out) · [Live Demo](https://hear-me-out-red.vercel.app) |
+
+</div>
 
 ---
 
-## `~/quote`
+## 💬 &nbsp;Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
 <br/>
@@ -210,11 +202,12 @@ const ayush = {
 
 <div align="center">
 
-```
- ───────────────────────────────────────────────────
-  thanks for visiting — if my work helped, drop a ⭐
-  "first solve the problem, then write the code"
- ───────────────────────────────────────────────────
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d2818,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20great%20together&fontSize=22&fontColor=3fb950&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<br/>
+
+**Drop a ⭐ if my work added value to you!**
+
+*"First, solve the problem. Then, write the code."*
 
 </div>
