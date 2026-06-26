@@ -1,229 +1,219 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="..." width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Ayush%20Kumar%20Sharma&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
 
 # 👋 Hi, I'm Ayush Kumar Sharma
 
-### Full Stack Developer • AI Builder • Open Source Enthusiast
+### `Full Stack Developer` • `AI Builder` • `Open Source Enthusiast`
 
 <p>
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_RESUME">Resume</a>
+  <a href="YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
+  <a href="YOUR_PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" /></a>
+  <a href="YOUR_RESUME" target="_blank"><img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=39d353" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ayushsharma1908&color=0e75b6"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile%20Views&color=238636&style=flat" />
+</p>
 
 </div>
 
 ---
 
-# 🎥 Introduction
+## 🟢 Hero Preview
 
-<p align="center">
-<img src="./Assets/intro.gif" width="800"/>
-</p>
+<div align="center">
+
+> GitHub README files do not reliably autoplay embedded videos, so the best approach is to use a clickable poster/GIF/thumbnail that links to your video file or repository media asset.
+
+<a href="./assets/Man_with_flowing_cape.mp4">
+  <img src="https://img.shields.io/badge/▶%20Watch%20Hero%20Video-0d1117?style=for-the-badge&logo=github&logoColor=39d353" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Building+clean+full-stack+experiences;Exploring+AI+and+modern+developer+tools;Creating+projects+that+solve+real+problems" alt="Typing SVG" />
+
+</div>
 
 ---
 
-# 🚀 About Me
+## ⚡ About Me
 
-- 💻 Full Stack Developer
-- 🤖 AI Application Builder
-- ☁️ Cloud & DevOps Enthusiast
-- 🌱 Currently learning Kubernetes, Docker & Agentic AI
-- 🏆 Hackathon Builder
-- 🌍 Open Source Contributor
-
----
-
-# ⚡ Current Focus
-
-```text
-🟢 Building AI Products
-
-🟢 Learning Cloud Native
-
-🟢 Contributing to Open Source
-
-🟢 Solving Real Problems
-
-🟢 Participating in Hackathons
+```yaml
+name: Ayush Kumar Sharma
+role: Full Stack Developer
+focus:
+  - AI-powered applications
+  - Modern web development
+  - Open source collaboration
+currently_learning:
+  - Kubernetes
+  - Docker
+  - Agentic AI
+  - LangGraph
+  - Hugging Face
 ```
 
+- 💻 Building scalable full stack applications.
+- 🤖 Exploring AI products, agent workflows, and practical automation.
+- 🌱 Learning cloud-native tools and modern deployment practices.
+- 🏆 Interested in hackathons, rapid prototyping, and solving real-world problems.
+- 🌍 Growing through open source and public building.
+
 ---
 
-# 🛠 Tech Stack
-
-## Frontend
+## 🧠 Current Focus
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,vite"/>
-</p>
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi"/>
-</p>
-
-## Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/>
-</p>
-
-## Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel"/>
-</p>
-
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+  <img src="https://img.shields.io/badge/Building-AI%20Products-0d1117?style=for-the-badge&logo=github&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20Native-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Contributing-Open%20Source-0d1117?style=for-the-badge&logo=git&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Solving-Real%20Problems-0d1117?style=for-the-badge&logo=codeforces&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Participating-Hackathons-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39d353" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🛠 Tech Stack
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,vite&theme=dark" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
+</p>
+
+### Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql&theme=dark" />
+</p>
+
+### Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel&theme=dark" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### RepoLens
+**AI-powered GitHub repository analyzer**
 
-## RepoLens
+- AI insights for repositories
+- Repository metrics and trends
+- Commit history exploration
+- Contributor analytics
 
-AI-powered GitHub Repository Analyzer
+**Stack:** `React` `Node.js` `MongoDB` `OpenRouter`
 
-✔ AI Insights
-
-✔ Repository Metrics
-
-✔ Commit History
-
-✔ Contributor Analytics
-
-**Stack**
-
-React • Node • MongoDB • OpenRouter
-
-[Repository](...)
-
-[Live Demo](...)
+[🔗 Repository](...)  
+[🌐 Live Demo](...)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### Hear Me Out
+**AI-powered conversational assistant**
 
-## Hear Me Out
+- Real-time chat experience
+- Authentication flow
+- Modern responsive UI
+- Smooth user experience
 
-AI-powered conversational assistant
+**Stack:** `React` `Express` `Node.js`
 
-✔ Real-time Chat
-
-✔ Authentication
-
-✔ Modern UI
-
-✔ Responsive Design
-
-**Stack**
-
-React • Express • Node
-
-[Repository](...)
-
-[Live Demo](...)
+[🔗 Repository](...)  
+[🌐 Live Demo](...)
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact"/>
+</div>
 
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Ayushsharma1908&theme=github-dark-green&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&border=238636" />
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ayushsharma1908"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&hide_border=false&border_color=238636" />
+</div>
 
 ---
 
-# 🏅 Achievements
+## 🏅 Highlights
 
-- 🏆 Hackathon Finalist
-- 💡 AI Builder
-- 🌱 Open Source Contributor
-- ☁️ Cloud Learner
+- 🏆 Hackathon builder with a strong product mindset.
+- 🤖 Focused on AI-powered application development.
+- 🌱 Continuously learning modern cloud and DevOps tooling.
+- 🌍 Interested in open source contribution and public projects.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Learning Now
 
 - Kubernetes
-
 - Docker
-
 - Agentic AI
-
 - LangGraph
-
 - Hugging Face
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect
 
-<p align="center">
+<div align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
+<a href="YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
 </a>
-
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
+</a>
+<a href="YOUR_PORTFOLIO" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39d353" />
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
+```diff
++ First, solve the problem. Then, write the code.
+```
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile!**
 
 </div>
