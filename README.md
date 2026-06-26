@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Ayush Kumar Sharma
 
-### `Full Stack Developer` • `AI Builder` • `Open Source Enthusiast`
+### `Full Stack Developer` • `Bulding Ai integrated apps` • `Open Source Contributor`
 
 <p>
   <a href="YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
@@ -48,12 +48,7 @@ focus:
   - AI-powered applications
   - Modern web development
   - Open source collaboration
-currently_learning:
-  - Kubernetes
-  - Docker
-  - Agentic AI
-  - LangGraph
-  - Hugging Face
+funfact: I debug with console.log and I'm proud of it
 ```
 
 - 💻 Building scalable full stack applications.
