@@ -14,10 +14,10 @@
 <a href="https://github.com/Ayushsharma1908">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950&labelColor=161b22"/>
 </a>&nbsp;
-<a href="[YOUR_WEBSITE]">
+<a href="https://repolens-client.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950&labelColor=161b22"/>
 </a>&nbsp;
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:ayushsharma1908@gmail.com">
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950&labelColor=161b22"/>
 </a>
 
@@ -28,6 +28,15 @@
 ![Followers](https://img.shields.io/github/followers/Ayushsharma1908?label=Followers&style=flat-square&color=3fb950&labelColor=161b22)
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Ayushsharma1908?label=Stars&style=flat-square&color=3fb950&labelColor=161b22)
+
+</div>
+
+<br/>
+
+<!-- HERO ANIMATION — place your MP4 here -->
+<div align="center">
+
+https://github.com/Ayushsharma1908/Ayushsharma1908/raw/main/Assets/Man_with_flowing_cape.mp4
 
 </div>
 
@@ -50,18 +59,6 @@
 - ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm proud of it
 
 <br clear="right"/>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🎬 &nbsp;Motion Intro
-
-<div align="center">
-
-https://github.com/Ayushsharma1908/Ayushsharma1908/raw/main/Assets/Man_with_flowing_cape.mp4
-
-</div>
 
 ---
 
@@ -116,6 +113,37 @@ https://github.com/Ayushsharma1908/Ayushsharma1908/raw/main/Assets/Man_with_flow
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<!-- RepoLens -->
+<a href="https://github.com/Ayushsharma1908/Repolens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d"/>
+</a>
+&nbsp;
+<a href="https://github.com/Ayushsharma1908/hear-me-out">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🔍 **RepoLens** | 💬 **Hear Me Out** |
+|:---|:---|
+| Paste any public GitHub URL → instant AI insights, code quality metrics, contributor trends & auth history | Full-stack AI chatbot with real-time conversations powered by an intelligent assistant |
+| `React` `Node.js` `MongoDB` `OpenRouter AI` `OAuth2` `JWT` | `React` `Node.js` `Express` `AI` `JavaScript` |
+| [View Repo](https://github.com/Ayushsharma1908/Repolens) · [Live Demo](https://repolens-client.vercel.app) | [View Repo](https://github.com/Ayushsharma1908/hear-me-out) · [Live Demo](https://hear-me-out-red.vercel.app) |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
@@ -156,36 +184,6 @@ https://github.com/Ayushsharma1908/Ayushsharma1908/raw/main/Assets/Man_with_flow
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake.svg"/>
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/output/github-snake-dark.svg" width="80%"/>
   </picture>
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Ayushsharma1908/Repolens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=Repolens&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ayushsharma1908/hear-me-out">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushsharma1908&repo=hear-me-out&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🔍 **RepoLens** | 💬 **Hear Me Out** |
-|:---|:---|
-| Paste any public GitHub URL → instant AI insights, code quality metrics, contributor trends & auth history | Full-stack AI chatbot with real-time conversations powered by an intelligent assistant |
-| `React` `Node.js` `MongoDB` `OpenRouter AI` `OAuth2` `JWT` | `React` `Node.js` `Express` `AI` `JavaScript` |
-| [View Repo](https://github.com/Ayushsharma1908/Repolens) · [Live Demo](https://repolens-client.vercel.app) | [View Repo](https://github.com/Ayushsharma1908/hear-me-out) · [Live Demo](https://hear-me-out-red.vercel.app) |
-
 </div>
 
 ---
