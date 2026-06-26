@@ -145,7 +145,7 @@ funfact: I debug with console.log and I'm proud of it
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636&hide_rank=true" />
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636" />
 
 </div>
