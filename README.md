@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/main/Assets/hero.gif" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/main/Assets/hero.gif" width="100%"> -->
 
 ---
 
