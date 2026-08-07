@@ -22,6 +22,14 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&hide_border=false&border_color=238636" />
+</div>
+
+---
+
 ## ⚡ About Me
 
 ```yaml
@@ -139,13 +147,7 @@ funfact: I debug with console.log and I'm proud of it
 
 </div>
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&hide_border=false&border_color=238636" />
-</div>
 
 ---
 
