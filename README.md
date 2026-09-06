@@ -1,15 +1,17 @@
 <div align="center">
 
-<div align="right">
-  <img src="https://img.shields.io/badge/-0d1117?style=flat&logo=github&logoColor=8b949e" alt="GitHub Logo" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Ayush%20Kumar%20Sharma&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Ayush%20Kumar%20Sharma&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20with%20AI&descAlignY=60&descSize=18" width="100%" />
 
 <p>
-  <a href="https://www.linkedin.com/in/ayushkrsharma19/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
-  <a href="https://ayush-portfolio-ten-mauve.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" /></a>
-  <a href="mailto:ayushsharma192004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" /></a>  
+  <a href="https://www.linkedin.com/in/ayushkrsharma19/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
+  </a>
+  <a href="https://ayush-portfolio-ten-mauve.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
+  </a>
+  <a href="mailto:ayushsharma192004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
+  </a>
 </p>
 
 <p>
@@ -18,73 +20,73 @@
 
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/Ayushsharma1908/Ayushsharma1908/main/Assets/hero.gif" width="100%"> -->
-
 ---
 
-## 📈 Contribution Graph
+## 👋 Hey, I'm Ayush
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&hide_border=false&border_color=238636" />
-</div>
+I'm a **Computer Science student and Full Stack Developer** who enjoys turning ideas into products.
 
----
-
-## ⚡ About Me
+I like building modern web applications, experimenting with AI, participating in hackathons, and learning by shipping real projects.
 
 ```yaml
 name: Ayush Kumar Sharma
 role: Full Stack Developer
-focus:
-  - AI-powered applications
-  - Modern web development
-  - Open source collaboration
-funfact: I debug with console.log and I'm proud of it
+currently:
+  - Building AI-powered products
+  - Exploring agentic workflows
+  - Improving DSA and problem-solving
+fun_fact: "console.log() is still one of my most trusted debugging tools."
 ```
 
-- 💻 Building scalable full stack applications.
-- 🤖 Exploring AI products, agent workflows, and practical automation.
-- 🌱 Learning cloud-native tools and modern deployment practices.
-- 🏆 Interested in hackathons, rapid prototyping, and solving real-world problems.
-- 🌍 Growing through open source and public building.
+* 💻 Building projects with **React, Node.js, Express, and MongoDB**
+* 🤖 Exploring **AI applications, RAG, agents, and automation**
+* 🚀 Interested in turning ideas into actual working products
+* 🏆 Enjoy hackathons and rapid prototyping
+* 🌱 Currently learning more about **cloud, DevOps, and AI systems**
 
 ---
 
-## 🧠 Current Focus
+## 🔥 What I'm Currently Focused On
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-AI%20Products-0d1117?style=for-the-badge&logo=github&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Learning-Cloud%20Native-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Contributing-Open%20Source-0d1117?style=for-the-badge&logo=git&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Solving-Real%20Problems-0d1117?style=for-the-badge&logo=codeforces&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Participating-Hackathons-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39d353" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Building-AI%20Products-0d1117?style=for-the-badge&logo=openai&logoColor=39d353" />
+<img src="https://img.shields.io/badge/Exploring-Agentic%20AI-0d1117?style=for-the-badge&logo=robotframework&logoColor=39d353" />
+<img src="https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-0d1117?style=for-the-badge&logo=docker&logoColor=39d353" />
+<img src="https://img.shields.io/badge/Practicing-DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=39d353" />
+
+</div>
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,vite&theme=dark" />
 </p>
 
-### Backend
+### Backend & AI
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
 </p>
 
-### Database
+### Databases
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
 </p>
 
 ### Cloud & DevOps
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel&theme=dark" />
 </p>
 
 ### Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 </p>
@@ -95,40 +97,88 @@ funfact: I debug with console.log and I'm proud of it
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### RepoLens
-**AI-powered GitHub repository analyzer**
+### 🧠 Memory Capsule
 
-- AI insights for repositories
-- Repository metrics and trends
-- Commit history exploration
-- Contributor analytics
+**A Chrome extension for preserving and exporting your ChatGPT conversations.**
 
-**Stack:** `React` `Node.js` `MongoDB` `OpenRouter`
+Memory Capsule helps users capture conversations and export them as reusable memory capsules instead of losing valuable context inside long chat histories.
 
-[🔗 Repository](...)  
-[🌐 Live Demo](...)
+**Highlights:**
+
+* 💬 Capture ChatGPT conversations
+* 📦 Export conversations as JSON
+* 🧠 Store and organize conversation memory
+* 🔌 Chrome Extension architecture
+
+**Stack:** `JavaScript` `Chrome Extension` `Manifest V3` `Chrome Storage API`
+
+[🔗 Repository](https://github.com/Ayushsharma1908/memory-capsule)
+[🌐 Live Website](https://memory-capsule-web.vercel.app/)
 
 </td>
+
 <td width="50%" valign="top">
 
-### Hear Me Out
-**AI-powered conversational assistant**
+### 🌦 WeatherScope
 
-- Real-time chat experience
-- Authentication flow
-- Modern responsive UI
-- Smooth user experience
+**A modern weather application with a clean and responsive interface.**
 
-**Stack:** `React` `Express` `Node.js`
+Built to explore weather information with a focus on usability, responsive design, and a smooth frontend experience.
 
-[🔗 Repository](...)  
-[🌐 Live Demo](...)
+**Stack:** `React` `Vite` `Tailwind CSS` `API Integration`
+
+[🔗 Explore Repository](https://github.com/Ayushsharma1908)
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💬 Hear Me Out
+
+**An AI-powered conversational application focused on a clean chat experience.**
+
+A modern interface built around smooth interactions, authentication flows, and responsive UI design.
+
+**Stack:** `React` `Node.js` `Express`
+
+[🔗 Explore on GitHub](https://github.com/Ayushsharma1908)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Indian Drives
+
+**A guidance layer for navigating India's driving licence application journey.**
+
+The project explores guided workflows, application tracking, recovery assistance, and an AI-powered assistant.
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `AI`
+
+[🔗 Repository](https://github.com/Ayushsharma1908/Indian-Drives)
+[🌐 Live Demo](https://indian-drives.vercel.app/)
+
+</td>
+
 </tr>
 </table>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&hide_border=false&border_color=238636" width="100%" />
+
+</div>
 
 ---
 
@@ -137,6 +187,7 @@ funfact: I debug with console.log and I'm proud of it
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636&hide_rank=true" />
+
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636" />
 
 </div>
@@ -147,41 +198,48 @@ funfact: I debug with console.log and I'm proud of it
 
 </div>
 
+---
 
+## 🧩 Beyond the Code
+
+A few things that currently interest me:
+
+* 🤖 AI-powered applications and practical AI integrations
+* 🧠 Agent workflows and RAG systems
+* 🚀 Building and shipping products quickly
+* 🏆 Hackathons and collaborative problem-solving
+* 🌍 Open source and learning in public
+* 📚 Data Structures & Algorithms
 
 ---
 
-## 🏅 Highlights
+## 📚 Currently Learning
 
-- 🏆 Hackathon builder with a strong product mindset.
-- 🤖 Focused on AI-powered application development.
-- 🌱 Continuously learning modern cloud and DevOps tooling.
-- 🌍 Interested in open source contribution and public projects.
-
----
-
-## 📚 Learning Now
-
-- Kubernetes
-- Docker
-- Agentic AI
-- LangGraph
-- Hugging Face
+```text
+→ Docker & containerization
+→ Kubernetes fundamentals
+→ Agentic AI
+→ LangGraph
+→ RAG systems
+→ Cloud deployment practices
+```
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ayushkrsharma19/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
 </a>
+
 <a href="mailto:ayushsharma192004@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
 </a>
+
 <a href="https://ayush-portfolio-ten-mauve.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
 </a>
 
 </div>
@@ -191,9 +249,9 @@ funfact: I debug with console.log and I'm proud of it
 <div align="center">
 
 ```diff
-+ Let's build something meaningful.
++ Still learning. Still building. Still shipping.
 ```
 
-**Thanks for visiting my profile!**
+### Thanks for stopping by! 👋
 
 </div>
