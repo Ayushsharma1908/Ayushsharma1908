@@ -36,3 +36,104 @@ currently:
   - Exploring agentic workflows
   - Improving DSA and problem-solving
 fun_fact: "console.log() is still one of my most trusted debugging tools."
+```
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=238636&hide_border=false&border_color=238636" 
+  width="100%" 
+/>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,vite&theme=dark" />
+</p>
+
+### ⚙️ Backend & AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel&theme=dark" />
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img 
+  width="49%" 
+  src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636&hide_rank=true" 
+/>
+
+<img 
+  width="37%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636" 
+/>
+
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Ayushsharma1908&theme=github-dark-green&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&border=238636" 
+/>
+
+</div>
+
+---
+
+## 🧩 Beyond the Code
+
+A few things that currently interest me:
+
+- 🤖 AI-powered applications and practical AI integrations
+- 🧠 Agent workflows and RAG systems
+- 🚀 Building and shipping products quickly
+- 🏆 Hackathons and collaborative problem-solving
+- 🌍 Open source and learning in public
+- 📚 Data Structures & Algorithms
+
+---
+
+## 📚 Currently Learning
+
+```text
+→ Docker & containerization
+→ Kubernetes fundamentals
+→ Agentic AI
+→ LangGraph
+→ RAG systems
+→ Cloud deployment practices
+```
+<div align="center">
++ Still learning. Still building. Still shipping.
+Thanks for stopping by! 👋
+</div> ```
