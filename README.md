@@ -106,13 +106,6 @@ fun_fact: "console.log() is still one of my most trusted debugging tools."
 
 Memory Capsule helps users capture conversations and export them as reusable memory capsules instead of losing valuable context inside long chat histories.
 
-**Highlights:**
-
-* 💬 Capture ChatGPT conversations
-* 📦 Export conversations as JSON
-* 🧠 Store and organize conversation memory
-* 🔌 Chrome Extension architecture
-
 **Stack:** `JavaScript` `Chrome Extension` `Manifest V3` `Chrome Storage API`
 
 [🔗 Repository](https://github.com/Ayushsharma1908/memory-capsule)
