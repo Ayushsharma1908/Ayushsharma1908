@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/banner.svg" width="100%" alt="Ayush Kumar Sharma — Full Stack Developer" />
+<div align="center"><img src="./assets/banner (1).svg" width="100%" alt="Ayush Kumar Sharma — Full Stack Developer" />
 <a href="https://www.linkedin.com/in/ayushkrsharma19/">
   <img src="https://img.shields.io/badge/LinkedIn-2B2118?style=flat-square&logo=linkedin&logoColor=FBF7F0" alt="LinkedIn" />
 </a>
