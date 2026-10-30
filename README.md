@@ -2,119 +2,44 @@
 
 <img src="banner.svg" alt="Ayush Kumar Sharma - Software Developer" width="100%" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=238636&hide_border=false&border_color=238636"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1908&bg_color=FBF7F0&color=2B2118&line=C8873A&point=B5651D&area=true&area_color=C8873A&hide_border=true&title_color=B5651D"
   width="100%"
   alt="GitHub contribution graph"
 />
 
-<p>
-  <a href="https://www.linkedin.com/in/ayushkrsharma19/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" />
-  </a>
-  <a href="https://ayush-portfolio-ten-mauve.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
-  </a>
-  <a href="mailto:ayushsharma192004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" />
-  </a>
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile%20Views&color=238636&style=flat" />
-</p>
+<a href="https://www.linkedin.com/in/ayushkrsharma19/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2B2118?style=flat-square&logo=linkedin&logoColor=FBF7F0" />
+</a>
+<a href="https://ayush-portfolio-ten-mauve.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-B5651D?style=flat-square&logo=vercel&logoColor=FBF7F0" />
+</a>
+<a href="mailto:ayushsharma192004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C8873A?style=flat-square&logo=gmail&logoColor=FBF7F0" />
+</a>
 
-</div>
+<br/><br/>
 
----
+<i>Computer Science student and full stack developer.<br/>
+I turn ideas into products, experiment with AI, and learn by shipping.</i>
 
-## 👋 Hey, I'm Ayush
-
-I'm a **Computer Science student and Full Stack Developer** who enjoys turning ideas into products.
-
-I like building modern web applications, experimenting with AI, participating in hackathons, and learning by shipping real projects.
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,vite&theme=dark" />
-</p>
-
-### ⚙️ Backend & AI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel&theme=dark" />
-</p>
-
-### 🧰 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
+<br/><br/>
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636&hide_rank=true"
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1908&show_icons=true&hide_rank=true&hide_border=true&bg_color=FBF7F0&title_color=B5651D&text_color=2B2118&icon_color=C8873A"
 />
-
 <img
-  width="37%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&theme=github_dark&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=238636"
+  width="38%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1908&layout=compact&hide_border=true&bg_color=FBF7F0&title_color=B5651D&text_color=2B2118"
 />
 
-<br/>
+<br/><br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=Ayushsharma1908&theme=github-dark-green&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&border=238636"
-/>
-
-</div>
-
----
-
-## 🧩 Beyond the Code
-
-A few things that currently interest me:
-
-- 🤖 AI-powered applications and practical AI integrations
-- 🧠 Agent workflows and RAG systems
-- 🚀 Building and shipping products quickly
-- 🏆 Hackathons and collaborative problem-solving
-- 🌍 Open source and learning in public
-- 📚 Data Structures & Algorithms
-
----
-
-<div align="center">
-
-Still learning. Still building. Still shipping.
-
-Thanks for stopping by! 👋
+<img src="https://komarev.com/ghpvc/?username=Ayushsharma1908&label=Profile%20Views&color=C8873A&style=flat-square" />
 
 </div>
