@@ -28,15 +28,6 @@ I'm a **Computer Science student and Full Stack Developer** who enjoys turning i
 
 I like building modern web applications, experimenting with AI, participating in hackathons, and learning by shipping real projects.
 
-```yaml
-name: Ayush Kumar Sharma
-role: Full Stack Developer
-currently:
-  - Building AI-powered products
-  - Exploring agentic workflows
-  - Improving DSA and problem-solving
-fun_fact: "console.log() is still one of my most trusted debugging tools."
-```
 ---
 
 ## 📈 Contribution Graph
@@ -123,16 +114,6 @@ A few things that currently interest me:
 
 ---
 
-## 📚 Currently Learning
-
-```text
-→ Docker & containerization
-→ Kubernetes fundamentals
-→ Agentic AI
-→ LangGraph
-→ RAG systems
-→ Cloud deployment practices
-```
 <div align="center">
 + Still learning. Still building. Still shipping.
 Thanks for stopping by! 👋
